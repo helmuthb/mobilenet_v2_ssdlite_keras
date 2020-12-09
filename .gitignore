@@ -1,0 +1,6 @@
+venv
+.history
+__pycache__
+.idea
+.vscode
+COCO_2017
